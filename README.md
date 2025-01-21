@@ -19,3 +19,7 @@ To install the required dependencies, follow these steps:
    ```bash
    git clone https://github.com/CBIIT/centromere_clustering_analysis.git
    cd centromere_clustering_analysis
+2. Install dependencies using the provided `genome.yml` file:
+   ```bash
+   conda env create -f genome.yml
+   conda activate genome
