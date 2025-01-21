@@ -6,7 +6,7 @@ This repository accompanies the manuscript **"Simulation and Quantitative Analys
 
 Centromeres exhibit non-random spatial distribution in the nucleus. Understanding their clustering is critical for studying chromosome behavior, nuclear organization, and associated functional processes. This repository includes:
 
-- **Clustering Metrics**: Tools for analyzing centromere clustering using Ripley's K score, Moran's I, modularity, mean nearest neighbor distance (MNND), and more.
+- **Clustering Metrics**: Tools for analyzing centromere clustering using Ripley's K score, Moran's I, modularity, mean nearest neighbor distance (MNND), etc.
 - **Synthetic Data Generation**: Scripts for generating simulated centromere distribution patterns.
 - **Modeling Approaches**: Radial and Gaussian-based models for simulating centromere spatial organization.
 - **Visualization Tools**: Methods for generating 2D and 3D visualizations of centromere distributions.
